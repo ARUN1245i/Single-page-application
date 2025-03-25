@@ -1,0 +1,16 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  body {
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
